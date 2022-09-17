@@ -95,7 +95,7 @@ content:
         quote: >
           Science for a better life
         description: | # this will include new lines to allow paragraphs
-          - Developed web apps of Geospatial data visualization and data analysis using <Mark>JavaScript</Mark>, <Mark>MongoDB</Mark>, <Mark>Node</Mark>, <Mark>Kafka</Mark>, <Mark>Material UI</Mark>, <Mark>React</Mark>, and <Mark>Redux</Mark> for multiple digital agriculture applications.
+          - Develop web apps of Geospatial data visualization and data analysis using <Mark>JavaScript</Mark>, <Mark>MongoDB</Mark>, <Mark>Node</Mark>, <Mark>Kafka</Mark>, <Mark>Material UI</Mark>, <Mark>React</Mark>, and <Mark>Redux</Mark> for multiple digital agriculture applications.
           - Automate the deployment process within AWS environment using <Mark>Jenkins</Mark> and <Mark>Cloud Foundry</Mark>.
 
       - layout: left
@@ -121,18 +121,18 @@ content:
     content:
       - layout: left
         title: University of North Carolina at Charlotte
-        caption: 2010 - 2013
+        caption: 2013 - 2018
         sub_title: Geography and Urban Regional Analysis
         description: | # this will include new lines to allow paragraphs
           During my time as a Research Assistant at UNCC I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. 
-          I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          
+          I have participated in various research projects, applied cutting-edge GIS and computer technologies in these projects.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: Achievements
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Gain the AWS Certified Solutions Architect (Associate), 2022 (https://www.credly.com/badges/62d77b97-51cb-4368-8f2a-3a99212b0811/linked_in?t=rg6yd3)
+      - AWS Certified Solutions Architect (Associate), 2022 (https://www.credly.com/badges/62d77b97-51cb-4368-8f2a-3a99212b0811/linked_in?t=rg6yd3)
       - Won the First Place of 1904labs Mapathon (hackathon), 2020 
       -	Patent of Wetland Modeling and Prediction, May 28, 2015 (US20150347673.3)
       - Patent of Simulated Urban System and Applications, Apr 3, 2013 (China, CN102073645B)
@@ -145,9 +145,6 @@ content:
       - Biking
       - Playing boardgames
       - Travelling
-
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
