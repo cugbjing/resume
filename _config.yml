@@ -48,9 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Jing and I'm a full stack web developer with professional experience in developing Web applications, automation pipelines, and APIs supported by AWS platform, plus proficient knowledge in GIS applications.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I have worked with various programming languages and frameworks and I am passionate about learning something new. The things that I currently have the most experience working with are: 
+  <mark>Python</mark>, <mark>JavaScript</mark>, <mark>RESTfull</mark>, <mark>AWS</mark>, <mark>Firebase</mark>, <mark>SQL</mark>, <mark>React/Redux</mark>, <mark>Node JS</mark>, <mark>Material UI</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>ArcGIS</mark>, <mark>OpenLayers</mark>, <mark>Geoserver</mark>, <mark>PostgreSQL</mark>
 
 content:
   - title: Projects # Title for the section
