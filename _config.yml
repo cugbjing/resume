@@ -129,7 +129,7 @@ about_content: | # this will include new lines to allow paragraphs
   - title: Achievements
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Gain the AWS Certified Solutions Architect (Associate), 2022
+      - Gain the AWS Certified Solutions Architect (Associate), 2022 (https://www.credly.com/badges/62d77b97-51cb-4368-8f2a-3a99212b0811/linked_in?t=rg6yd3)
       - Won the First Place of 1904labs Mapathon (hackathon), 2020 
       -	Patent of Wetland Modeling and Prediction, May 28, 2015 (US20150347673.3)
       - Patent of Simulated Urban System and Applications, Apr 3, 2013 (China, CN102073645B)
