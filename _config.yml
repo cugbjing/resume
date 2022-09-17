@@ -1,5 +1,5 @@
 # Site
-repository: cugbjing/resume
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -28,10 +28,10 @@ linkedin_username: https://www.linkedin.com/in/jing-deng-39ab5a17/
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -99,18 +99,6 @@ about_content: | # this will include new lines to allow paragraphs
         description: | # this will include new lines to allow paragraphs
           - Developed web apps of Geospatial data visualization and data analysis using JavaScript, MongoDB, Node, Kafka, Material UI, React, and Redux for multiple digital agriculture applications.
           - Automate the deployment process within AWS environment using Jenkins and Cloud Foundry.
-
-      - layout: left
-        title: Bayer
-        link: bayer.com
-        # link_text: aws.com
-        sub_title: GEOSPATIAL BIG DATA ENGINEER 
-        caption: 2018 - 2020
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          - Design, build, and maintain APIs to process geospatial big data (satellite and lidar data) to provide data value to data scientists and commercial communities (Flask + Python + MVC).
-          - Leverage CICD to facilitate the development and deployment of various pipelines within AWS environment (EC2/ECR/EMR/RDS/Data Pipeline/Lambda/Rundeck/Jenkins).
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
