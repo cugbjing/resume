@@ -105,7 +105,7 @@ content:
       - layout: left
         title: University of North Carolina at Charlotte
         caption: 2013 - 2018
-        sub_title: Geography and Urban Regional Analysis
+        sub_title: PhD, Geography and Urban Regional Analysis
         description: | # this will include new lines to allow paragraphs
           During my time as a Research Assistant at UNCC I learned most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. 
           
@@ -124,7 +124,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Developed Spatial Model to Improve Wetland Classification
+        title: Develop Spatial Model to Improve Wetland Classification
         # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -135,14 +135,14 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This work is related to my Ph.D dissertation.
+          This work is related to my PhD dissertation.
         description: | # this will include new lines to allow paragraphs
           I developed a GIS expert system by integrating machine learning models (GLM, RF, GBM) with rule-based system for improving wetland classification accuracy.
           
           The classification accuracy was increased from around 50% to 90%.
       
       - layout: top-middle
-        title: Developed Algorithm to Improve Nature Reserves with Backup Coverage
+        title: Develop Algorithm to Improve Nature Reserves with Backup Coverage
         # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -156,6 +156,56 @@ content:
           This work is published into a research paper.
         description: | # this will include new lines to allow paragraphs
           I developed algorithms based on genetic algorithm and linear programming to solve site selection problem.
+
+      - layout: top-middle
+        title: Big Data Analysis of US Landscape Patterns in Space and Time
+        # link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This work is published into a research paper.
+        description: | # this will include new lines to allow paragraphs
+          I developed a computing cluster using Amazon EC2 to implement parallel acceleration for fine-resolution, large-scale spatiotemporal pattern calculation and visualization.
+
+      - layout: top-middle
+        title: Develop Web Portal for Assessment of Urban Forests and Water Quality (NCFS)
+        # link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          I helped construct an internal web portal on AWS for domain experts to access data and visualize statisical analysis results.
+          I implemented a <mark>WPS</mark> chain to provide basic spatial analysis functions using <mark>CURL</mark> and GeoServer Rest APIs.
+          
+          The tech stack I used for the website includes <mark>EC2</mark>, <mark>Tomcat</mark>, <mark>GeoServer</mark>, <mark>OpenLayers</mark>, <mark>JavaScript</mark>, and <mark>PHP</mark>.
+
+      - layout: top-middle
+        title: Apply GPU to Accelerate Douglas-Peucker Line Simplification Algorithm 
+        # link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is a hobby site project I did in my early PhD years, I don't have a paper published but presented the work in conference and have manuscript.
+        description: | # this will include new lines to allow paragraphs
+          I designed a parallel computing version of Douglas-Peucker algorithm for line simplification. 
+          I implement the algorithm in GPU environment using <mark>CUDA</mark>.
 
   - title: Achievements
     layout: text
