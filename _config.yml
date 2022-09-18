@@ -127,7 +127,41 @@ content:
           During my time as a Research Assistant at UNCC I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. 
           
           I have participated in various research projects, applied cutting-edge GIS and computer technologies in these projects.
-
+    
+  - title: Research Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Developed Spatial Model to Improve Wetland Classification
+        # link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This work is related to my Ph.D dissertation.
+        description: | # this will include new lines to allow paragraphs
+          I developed a GIS expert system to integrate machine learning methods (GLM, RF, GBM) with rule-based method for improving wetland classification accuracy (increased accuracy from around 50% to 90%).
+      
+      - layout: top-middle
+        title: Developed Algorithm to Improve Nature Reserves with Backup Coverage
+        # link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This work is published into a research paper.
+        description: | # this will include new lines to allow paragraphs
+          I developed algorithms based on genetic algorithm and linear programming to solve site selection problem.
 
   - title: Achievements
     layout: text
@@ -140,10 +174,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in software engineering some of my other interests and hobbies are:
       - Rock climbing
       - Biking
-      - Playing boardgames
+      - Playing board games
       - Travelling
 
 # Footer
