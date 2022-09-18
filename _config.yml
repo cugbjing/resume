@@ -66,7 +66,7 @@ content:
         quote: >
           Work hard, have fun, make history
         description: | # this will include new lines to allow paragraphs
-          - Improve the livestreaming platform for internal Amazon emphasizing on scalability, availability and security
+          - Improve the livestreaming platform for internal Amazon employees emphasizing on scalability, availability and security
 
       - layout: left
         title: Bayer
@@ -77,6 +77,7 @@ content:
           Science for a better life
         description: | # this will include new lines to allow paragraphs
           - Develop web apps of Geospatial data visualization and data analysis using <Mark>JavaScript</Mark>, <Mark>MongoDB</Mark>, <Mark>Node</Mark>, <Mark>Kafka</Mark>, <Mark>Material UI</Mark>, <Mark>React</Mark>, and <Mark>Redux</Mark> for multiple digital agriculture applications.
+          - Leverage open source tools, such as <mark>openlayers</mark> to build spatial component of the web app, meanwhile contribute back to the open source community.
           - Automate the deployment process within AWS environment using <Mark>Jenkins</Mark> and <Mark>Cloud Foundry</Mark>.
 
       - layout: left
@@ -84,10 +85,9 @@ content:
         link: bayer.com
         sub_title: Geospatial Big Data Engineer 
         caption: 2018 - 2020
-        quote: >
-          Science for a better life
         description: | # this will include new lines to allow paragraphs
-          - Design, build, and maintain APIs to process geospatial big data (satellite, lidar, and remote sensing data) to provide data value to data scientists and commercial communities (<Mark>Flask</Mark> + <Mark>Python</Mark> + <Mark>MVC</Mark>).
+          - Design, build, and maintain pipelines and APIs to process messy geospatial big data (satellite, lidar, and remote sensing data)
+          - Provide data value to data scientists and commercial communities (<Mark>Flask</Mark> + <Mark>Python</Mark> + <Mark>MVC</Mark>).
           - Leverage CICD to facilitate the development and deployment of various pipelines within AWS environment (<Mark>EC2</Mark>, <Mark>ECR</Mark>, <Mark>EMR</Mark>, <Mark>RDS</Mark>, <Mark>Data Pipeline</Mark>, <Mark>Lambda</Mark>, <Mark>Rundeck</Mark>, <Mark>Jenkins</Mark>).
 
       - layout: left
@@ -95,7 +95,9 @@ content:
         sub_title: Software Developer (Internship)
         caption: 2016 and 2017 summer 
         description: | # this will include new lines to allow paragraphs
-          - Develop <Mark>python</Mark> modules to simulate land development process (using <Mark>GDAL</Mark>, <Mark>Numpy</Mark>, <Mark>Pandas</Mark>, etc.).
+          - Build spatial simulation models to predict land development process.
+          - Develop <Mark>python</Mark> modules to process socio-economic datasets and automate the prediction models (using <Mark>GDAL</Mark>, <Mark>Numpy</Mark>, <Mark>Pandas</Mark>, etc.).
+          - Provide consultation for land development stakeholders.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -112,11 +114,11 @@ content:
       - layout: left
         title: University of Geosciences, Beijing
         caption: 2004 - 2008
-        sub_title: achelor of Engineering, Land Resources Management
+        sub_title: Bachelor of Engineering, Land Resources Management
         description: | # this will include new lines to allow paragraphs
-          During my studies, I have learned various topics including <Mark>Geology</Mark>, <Mark>Urban Planning</Mark>, <Mark>Economics</Mark>, <Mark>Statistics</Mark>.
+          During my studies, I have learned various topics such as <Mark>Geology</Mark>, <Mark>Urban Planning</Mark>, <Mark>Economics</Mark>, <Mark>Statistics</Mark>.
 
-          I have gained massive amount of knowledge, and it served as good foundation for my acdemic research skills.
+          Those knowledge served as good foundation for my further acdemic research skills.
     
   - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -158,8 +160,8 @@ content:
   - title: Achievements
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - AWS Certified Solutions Architect (Associate), 2022 ![cert](https://www.credly.com/badges/62d77b97-51cb-4368-8f2a-3a99212b0811/linked_in?t=rg6yd3)
-      - Won the First Place of 1904labs Mapathon (hackathon), 2020 
+      - AWS Certified Solutions Architect (Associate), 2022 [cert](https://www.credly.com/badges/62d77b97-51cb-4368-8f2a-3a99212b0811/linked_in?t=rg6yd3)
+      - Won the First Place of Mapathon (hackathon) hosted by 1904labs, 2020 
       -	Patent of Wetland Modeling and Prediction, May 28, 2015 (US20150347673.3)
       - Patent of Simulated Urban System and Applications, Apr 3, 2013 (China, CN102073645B)
 
