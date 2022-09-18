@@ -116,15 +116,15 @@ content:
         caption: 2004 - 2008
         sub_title: Bachelor of Engineering, Land Resources Management
         description: | # this will include new lines to allow paragraphs
-          During my studies, I have learned various topics such as <Mark>Geology</Mark>, <Mark>Urban Planning</Mark>, <Mark>Economics</Mark>, <Mark>Statistics</Mark>.
+          During my studies, I have learned various topics such as <Mark>Geology</Mark>, <Mark>Urban Planning</Mark>, <Mark>Economics</Mark>, <Mark>Statistics</Mark>. Those knowledge served as good foundation for my further acdemic research skills.
 
-          Those knowledge served as good foundation for my further acdemic research skills.
-    
+          I graduated top 10%, with GPA of 3.5.
+
   - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Develop Spatial Model to Improve Wetland Classification
+        title: Develop Spatial Model to Improve Wetland Classification for NCDOT
         # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -135,10 +135,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This work is related to my PhD dissertation.
+          This research project is further developed to my PhD dissertation, part of the work is published as US patent.
         description: | # this will include new lines to allow paragraphs
           I developed a GIS expert system by integrating machine learning models (GLM, RF, GBM) with rule-based system for improving wetland classification accuracy.
           
+          I built data pipeline to download and process satellite data, derived terrain data from <mark>LiDAR</mark>, I also utilized ArcGIS Model Builder to orchestra the data processing and model running to minimize the manual work.
           The classification accuracy was increased from around 50% to 90%.
       
       - layout: top-middle
@@ -214,6 +215,8 @@ content:
       - Won the First Place of Mapathon (hackathon) hosted by 1904labs, 2020 
       -	Patent of Wetland Modeling and Prediction, May 28, 2015 (US20150347673.3)
       - Patent of Simulated Urban System and Applications, Apr 3, 2013 (China, CN102073645B)
+      - Won honorable mention for the best paper competition in The First International Symposium on Spatiotemporal Computing (ISSC) (July 13-15, 2015, George Mason University, Fairfax, VA, USA)
+      - Won competitive awards to attend the 2012 Open Science Grid User School (June 25-28; Wisconsin-Madison) and the 2012 XSEDE Annual Conference (July 16-20 Chicago, IL, USA).
 
   - title: A Little More About Me
     layout: text
