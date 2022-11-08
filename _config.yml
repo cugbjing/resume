@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.png
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Jing and I'm a full stack web developer with professional experience in developing Web applications, automation pipelines, and APIs supported by AWS platform, plus proficient knowledge in GIS applications.
 
@@ -125,20 +125,20 @@ content:
   - title: Personal Projects
     layout: list 
     content:
-      - layout: top-middle
+      - layout: left
         title: E-commerce Website
         link: www.everybodypreps.com
-        link_text: Website
+        link_text: www.everybodypreps.com
         
         description: | 
           I developed a trunk tent under the brand name "EverybodyPreps". Built this website to promote the products.
 
           Website is built using <Mark>React</Mark> and <Mark>Material UI</Mark>, and <Mark>Firebase</Mark>.
       
-      - layout: top-middle
+      - layout: left
         title: Helped with the development of website for recording life stories
         link: www.everypast.com
-        link_text: Website
+        link_text: www.everypast.com
         description: | # this will include new lines to allow paragraphs
           I helped with CICD.
 
