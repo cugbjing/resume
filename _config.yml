@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Jing and I'm a full stack web developer with professional experience in developing Web applications, automation pipelines, and APIs supported by AWS platform, plus proficient knowledge in GIS applications.
 
