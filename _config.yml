@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Python</mark>, <mark>JavaScript</mark>, <mark>RESTfull</mark>, <mark>AWS</mark>, <mark>Firebase</mark>, <mark>SQL</mark>, <mark>React/Redux</mark>, <mark>Node JS</mark>, <mark>Material UI</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>ArcGIS</mark>, <mark>OpenLayers</mark>, <mark>Geoserver</mark>, <mark>PostgreSQL</mark>, <mark>shell script</mark>
 
 content:
-  - title: Experience # Title for the section
+  - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -62,11 +62,13 @@ content:
         link: aws.amazon.com
         # link_text: aws.com
         sub_title: SDE2
-        caption: Dec 2021 - Present
+        caption: Dec 2021 - Oct 2022
         quote: >
           Work hard, have fun, make history
         description: | # this will include new lines to allow paragraphs
-          - Improve the livestreaming platform for internal Amazon employees emphasizing on scalability, availability and security
+          - Maintain and improve a livestreaming platform for internal Amazon employees emphasizing on scalability, availability and security
+          - Develop chat module for the livestreaming platform to enable large-scale live interactions
+          - Apply distributed load testing framework to stress test the livestreaming system
 
       - layout: left
         title: Bayer
@@ -119,6 +121,26 @@ content:
           During my studies, I have learned various topics such as <Mark>Geology</Mark>, <Mark>Urban Planning</Mark>, <Mark>Economics</Mark>, <Mark>Statistics</Mark>. Those knowledge served as good foundation for my further acdemic research skills.
 
           I graduated top 10%, with GPA of 3.5.
+
+  - title: Personal Projects
+    layout: list 
+    content:
+      - layout: top-middle
+        title: E-commerce Website
+        link: www.everybodypreps.com
+        link_text: Website
+        
+        description: | 
+          I developed a trunk tent under the brand name "EverybodyPreps". Built this website to promote the products.
+
+          Website is built using <Mark>React</Mark> and <Mark>Material UI</Mark>, and <Mark>Firebase</Mark>.
+      
+      - layout: top-middle
+        title: Helped with the development of website for recording life stories
+        link: www.everypast.com
+        link_text: Website
+        description: | # this will include new lines to allow paragraphs
+          I helped with CICD.
 
   - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
