@@ -238,7 +238,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is a hobby site project I did in my early PhD years, I don't have a paper published but presented the work in conference and have manuscript.
+          This is a hobby project I did in my early PhD years, I presented the work in conference.
         description: | # this will include new lines to allow paragraphs
           I designed a parallel computing version of Douglas-Peucker algorithm for line simplification. 
           I implement the algorithm in GPU environment using <mark>CUDA</mark>.
@@ -257,7 +257,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      - Rock climbing / bouldering
       - Biking
       - Playing board games
       - Travelling
