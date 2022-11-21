@@ -48,13 +48,26 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Jing and I'm a full stack web developer with professional experience in developing Web applications, automation pipelines, and APIs supported by AWS platform, plus proficient knowledge in GIS applications.
+  Hi, my name is Jing and I'm a full stack software engineer with GIS expert knowledge. I have professional experience in developing scalable Web Apps, data processing pipelines, and APIs supported by cloud computing platforms. 
 
-  I have worked with various programming languages and frameworks and I am passionate about learning something new. The things that I currently have the most experience working with are: 
-  <mark>Python</mark>, <mark>JavaScript</mark>, <mark>RESTfull</mark>, <mark>AWS</mark>, <mark>Firebase</mark>, <mark>SQL</mark>, <mark>React/Redux</mark>, <mark>Node JS</mark>, <mark>Material UI</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>ArcGIS</mark>, <mark>OpenLayers</mark>, <mark>Geoserver</mark>, <mark>PostgreSQL</mark>, <mark>shell script</mark>
+  I have worked with various programming languages and frameworks and I enjoy learning something new. Currently I have the most experience working with: 
+  <mark>Python</mark>, <mark>JavaScript</mark>, <mark>RESTfull</mark>, <mark>AWS</mark>, <mark>Firebase</mark>, <mark>SQL</mark>, <mark>React/Redux</mark>, <mark>Node JS</mark>, <mark>Material UI</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>ArcGIS</mark>, <mark>OpenLayers</mark>, <mark>Geoserver</mark>, <mark>PostgreSQL</mark>
 
 content:
   - title: Work Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: EveryPast
+        link: www.everypast.com
+        link_text: everypast.com
+        sub_title: CTO
+        caption: 2021 - Present
+        quote: >
+          Recording life stories the fun and free way
+        description: | # this will include new lines to allow paragraphs
+          - Develop the web app using AWS
+
     layout: list # Type of content section (list/text)
     content:
       - layout: left
