@@ -48,10 +48,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am a full stack software engineer with GIS expert knowledge. I have professional experience in developing scalable Web Apps, data processing pipelines, and APIs supported by cloud computing platforms. 
+  Hi, I am a full stack software engineer with professional experience in developing scalable Web Apps, data processing pipelines, and APIs supported by cloud computing platforms. 
 
   I have worked with various programming languages and frameworks and I always enjoy learning something new. Currently I have the most experience working with: 
-  <mark>Python</mark>, <mark>JavaScript</mark>, <mark>RESTfull</mark>, <mark>AWS</mark>, <mark>SQL</mark>, <mark>React/Redux</mark>, <mark>Node JS</mark>, <mark>Material UI</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>ArcGIS</mark>, <mark>OpenLayers</mark>, <mark>Geoserver</mark>, <mark>PostgreSQL</mark>
+  <mark>Python</mark>, <mark>JavaScript</mark>, <mark>RESTfull</mark>, <mark>AWS</mark>, <mark>SQL</mark>, <mark>React/Redux</mark>, <mark>Node JS</mark>, <mark>Material UI</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>SQL</mark>.
+  
+  I also have expert knowledge of Geographical Information Science (GIS), I am proficient with <mark>ArcGIS</mark>, <mark>OpenLayers</mark>, <mark>Geoserver</mark>, <mark>PostgreSQL</mark>.
 
 content:
   - title: Work Experience # Title for the section
