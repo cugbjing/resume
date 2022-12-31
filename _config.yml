@@ -48,10 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Jing and I'm a full stack software engineer with GIS expert knowledge. I have professional experience in developing scalable Web Apps, data processing pipelines, and APIs supported by cloud computing platforms. 
+  Hi, I am a full stack software engineer with GIS expert knowledge. I have professional experience in developing scalable Web Apps, data processing pipelines, and APIs supported by cloud computing platforms. 
 
-  I have worked with various programming languages and frameworks and I enjoy learning something new. Currently I have the most experience working with: 
-  <mark>Python</mark>, <mark>JavaScript</mark>, <mark>RESTfull</mark>, <mark>AWS</mark>, <mark>Firebase</mark>, <mark>SQL</mark>, <mark>React/Redux</mark>, <mark>Node JS</mark>, <mark>Material UI</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>ArcGIS</mark>, <mark>OpenLayers</mark>, <mark>Geoserver</mark>, <mark>PostgreSQL</mark>
+  I have worked with various programming languages and frameworks and I always enjoy learning something new. Currently I have the most experience working with: 
+  <mark>Python</mark>, <mark>JavaScript</mark>, <mark>RESTfull</mark>, <mark>AWS</mark>, <mark>SQL</mark>, <mark>React/Redux</mark>, <mark>Node JS</mark>, <mark>Material UI</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>ArcGIS</mark>, <mark>OpenLayers</mark>, <mark>Geoserver</mark>, <mark>PostgreSQL</mark>
 
 content:
   - title: Work Experience # Title for the section
@@ -61,12 +61,15 @@ content:
         title: EveryPast
         link: www.everypast.com
         link_text: everypast.com
-        sub_title: CTO
-        caption: 2021 - Present
+        sub_title: Software Engineer
+        caption: 2022 - Present
         quote: >
           Recording life stories the fun and free way
         description: | # this will include new lines to allow paragraphs
-          - Develop the web app using AWS
+          - Migrate the web app to AWS environment (<mark>Amplify</mark>, <mark>Elastic Beanstalk</mark>, <mark>AWS RDS</mark>)
+          - Improve CI/CD process of the website development leveraging <mark>AWS code pipeline</mark>
+          - Maintain and develop new features for the website
+
 
     layout: list # Type of content section (list/text)
     content:
@@ -91,9 +94,9 @@ content:
         quote: >
           Science for a better life
         description: | # this will include new lines to allow paragraphs
-          - Develop web apps of Geospatial data visualization and data analysis using <Mark>JavaScript</Mark>, <Mark>MongoDB</Mark>, <Mark>Node</Mark>, <Mark>Kafka</Mark>, <Mark>Material UI</Mark>, <Mark>React</Mark>, and <Mark>Redux</Mark> for multiple digital agriculture applications.
-          - Leverage open source tools, such as <mark>openlayers</mark> to build spatial component of the web app, meanwhile contribute back to the open source community.
-          - Automate the deployment process within AWS environment using <Mark>Jenkins</Mark> and <Mark>Cloud Foundry</Mark>.
+          - Develop web apps of Geospatial data visualization and data analysis using <Mark>JavaScript</Mark>, <Mark>MongoDB</Mark>, <Mark>Node</Mark>, <Mark>Kafka</Mark>, <Mark>Material UI</Mark>, <Mark>React</Mark>, and <Mark>Redux</Mark> for multiple digital agriculture applications
+          - Leverage open source tools, such as <mark>openlayers</mark> to build spatial component of the web app, meanwhile contribute back to the open source community
+          - Automate the deployment process within AWS environment using <Mark>Jenkins</Mark> and <Mark>Cloud Foundry</Mark>
 
       - layout: left
         title: Bayer
@@ -102,17 +105,17 @@ content:
         caption: 2018 - 2020
         description: | # this will include new lines to allow paragraphs
           - Design, build, and maintain pipelines and APIs to process messy geospatial big data (satellite, lidar, and remote sensing data)
-          - Provide data value to data scientists and commercial communities (<Mark>Flask</Mark> + <Mark>Python</Mark> + <Mark>MVC</Mark>).
-          - Leverage CICD to facilitate the development and deployment of various pipelines within AWS environment (<Mark>EC2</Mark>, <Mark>ECR</Mark>, <Mark>EMR</Mark>, <Mark>RDS</Mark>, <Mark>Data Pipeline</Mark>, <Mark>Lambda</Mark>, <Mark>Rundeck</Mark>, <Mark>Jenkins</Mark>).
+          - Provide data value to data scientists and commercial communities (<Mark>Flask</Mark> + <Mark>Python</Mark> + <Mark>MVC</Mark>)
+          - Leverage CICD to facilitate the development and deployment of various pipelines within AWS environment (<Mark>EC2</Mark>, <Mark>ECR</Mark>, <Mark>EMR</Mark>, <Mark>RDS</Mark>, <Mark>Data Pipeline</Mark>, <Mark>Lambda</Mark>, <Mark>Rundeck</Mark>, <Mark>Jenkins</Mark>)
 
       - layout: left
         title: Spatial Decision System
         sub_title: Software Developer (Internship)
         caption: 2016 and 2017 summer 
         description: | # this will include new lines to allow paragraphs
-          - Build spatial simulation models to predict land development process.
-          - Develop <Mark>python</Mark> modules to process socio-economic datasets and automate the prediction models (using <Mark>GDAL</Mark>, <Mark>Numpy</Mark>, <Mark>Pandas</Mark>, etc.).
-          - Provide consultation for land development stakeholders.
+          - Build spatial simulation models to predict land development process
+          - Develop <Mark>python</Mark> modules to process socio-economic datasets and automate the prediction models (using <Mark>GDAL</Mark>, <Mark>Numpy</Mark>, <Mark>Pandas</Mark>, etc.)
+          - Provide consultation for land development stakeholders
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -122,9 +125,9 @@ content:
         caption: 2013 - 2018
         sub_title: PhD, Geography and Urban Regional Analysis
         description: | # this will include new lines to allow paragraphs
-          During my time as a Research Assistant at UNCC I learned most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. 
+          During my time as a Research Assistant at UNCC I learned most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines.
           
-          I have participated in various research projects, applied cutting-edge GIS and computer technologies in these projects.
+          I have participated in various research projects, applied cutting-edge GIS and computer technologies in these projects. I was able to continuously develop and practice my problem-solving skills.
       
       - layout: left
         title: University of Geosciences, Beijing
@@ -144,16 +147,16 @@ content:
         link_text: www.everybodypreps.com
         
         description: | 
-          I developed a trunk tent under the brand name "EverybodyPreps". Built this website to promote the products.
+          I designed and manufactured a trunk tent initiated by my enthusiasm for camping. So I built this website to promote the product. The current website that has been released is only a small fraction of the entire project, which has the potential to be an e-commerce platform.
 
-          Website is built using <Mark>React</Mark> and <Mark>Material UI</Mark>, and <Mark>Firebase</Mark>.
+          The website is built using <Mark>React</Mark> and <Mark>Material UI</Mark>, and <Mark>Firebase</Mark>.
       
       - layout: left
-        title: Helped with the development of website for recording life stories
-        link: www.everypast.com
-        link_text: www.everypast.com
-        description: | # this will include new lines to allow paragraphs
-          I helped with CICD.
+        title: Content Management Platform using GraphQL
+        link: www.todo.com
+        link_text: www.todo.com
+        description: | 
+          I built this system to learn <Mark>GraphQL</Mark> and <Mark>GraphCMS</Mark>.
 
   - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
