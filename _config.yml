@@ -72,9 +72,6 @@ content:
           - Improve CI/CD process of the website development leveraging <mark>AWS code pipeline</mark>
           - Maintain and develop new features for the website
 
-
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: AWS
         link: aws.amazon.com
@@ -268,7 +265,8 @@ content:
       - Playing board games
       - Travelling
       - eCommerce
-      - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  
+  - Images ![alt text](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
