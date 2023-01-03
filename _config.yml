@@ -161,10 +161,7 @@ content:
         title: Develop Spatial Model to Improve Wetland Classification for NCDOT
         # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  cugbjing/resume
-            icon: fab fa-github
-            url: github.com/cugbjing/resume
+        # additional_links:
           # - title:  Github page for project (eg. cugbjing/resume)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -180,13 +177,10 @@ content:
         title: Develop Algorithm to Improve Nature Reserves with Backup Coverage
         # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  cugbjing/resume
-            icon: fab fa-github
-            url: github.com/cugbjing/resume
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # additional_links:
+        #   - title:  cugbjing/resume
+        #     icon: fab fa-github
+        #     url: github.com/cugbjing/resume
         quote: >
           This work is published into a research paper.
         description: | # this will include new lines to allow paragraphs
@@ -196,13 +190,10 @@ content:
         title: Big Data Analysis of US Landscape Patterns in Space and Time
         # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  cugbjing/resume
-            icon: fab fa-github
-            url: github.com/cugbjing/resume
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # additional_links:
+        #   - title:  cugbjing/resume
+        #     icon: fab fa-github
+        #     url: github.com/cugbjing/resume
         quote: >
           This work is published into a research paper.
         description: | # this will include new lines to allow paragraphs
@@ -212,13 +203,10 @@ content:
         title: Develop Web Portal for Assessment of Urban Forests and Water Quality (NCFS)
         # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  cugbjing/resume
-            icon: fab fa-github
-            url: github.com/cugbjing/resume
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # additional_links:
+        #   - title:  cugbjing/resume
+        #     icon: fab fa-github
+        #     url: github.com/cugbjing/resume
         description: | # this will include new lines to allow paragraphs
           I helped construct an internal web portal on AWS for domain experts to access data and visualize statisical analysis results.
           I implemented a <mark>WPS</mark> chain to provide basic spatial analysis functions using <mark>CURL</mark> and GeoServer Rest APIs.
@@ -229,13 +217,10 @@ content:
         title: Apply GPU to Accelerate Douglas-Peucker Line Simplification Algorithm 
         # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  cugbjing/resume
-            icon: fab fa-github
-            url: github.com/cugbjing/resume
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # additional_links:
+        #   - title:  cugbjing/resume
+        #     icon: fab fa-github
+        #     url: github.com/cugbjing/resume
         quote: >
           This is a hobby project I did in my early PhD years, I presented the work in conference.
         description: | # this will include new lines to allow paragraphs
